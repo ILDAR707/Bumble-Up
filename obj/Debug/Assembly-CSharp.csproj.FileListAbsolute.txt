@@ -1,0 +1,2 @@
+C:\Games\Bumble Up _ My Version\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Games\Bumble Up _ My Version\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
